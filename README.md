@@ -1,4 +1,4 @@
-# ![YuuProfilePicture](/Imagenes/YuuProfilePicture.svg) ¡Hola! 👋 Mi nombre es `Small_Yae`
+# ![YuuProfilePicture](/Imagenes/YuuPP.png) ¡Hola! 👋 Mi nombre es `Small_Yae`
 
 ### ¡Soy estudiante de Diseño Interactivo!
 
