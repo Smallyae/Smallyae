@@ -5,7 +5,7 @@
 ### Contacto:
 
 [![Twitter](/Imagenes/Twitter.svg)](https://twitter.com/SmallYae)
-[![Likedin](/Imagenes/Linkedin.svg)](www.linkedin.com/in/jair-leonardo-ochoa-medina-52243b194)
+[![Likedin](/Imagenes/Linkedin.svg)](https://www.linkedin.com/in/jair-leonardo-ochoa-medina-52243b194/)
 [![Github](/Imagenes/Github.svg)](https://github.com/Smallyae)
 
 ### Sobre mi:
