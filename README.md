@@ -1,12 +1,12 @@
-# ![YuuProfilePicture](/Imagenes/YuuPP.png) ¡Hola! 👋 Mi nombre es `Small_Yae`
+# ![YuuProfilePicture](/Imagenes/YuuProfilePicture.svg) ¡Hola! 👋 Mi nombre es `Small_Yae`
 
 ### ¡Soy estudiante de Diseño Interactivo!
 
 ### Contacto:
 
-[![Twitter](/Imagenes/Twitter.png)](https://twitter.com/SmallYae)
-[![Likedin](/Imagenes/Linkedin.png)](www.linkedin.com/in/jair-leonardo-ochoa-medina-52243b194)
-[![Github](/Imagenes/Github.png)](https://github.com/Smallyae)
+[![Twitter](/Imagenes/Twitter.svg)](https://twitter.com/SmallYae)
+[![Likedin](/Imagenes/Linkedin.svg)](www.linkedin.com/in/jair-leonardo-ochoa-medina-52243b194)
+[![Github](/Imagenes/Github.svg)](https://github.com/Smallyae)
 
 ### Sobre mi:
 
