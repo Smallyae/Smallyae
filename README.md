@@ -1,62 +1,57 @@
-## Hola 👋, ¡soy Jair Ochoa!  
-  
+## Hola 👋, ¡soy Jair Ochoa!
 
 <a href="https://github.com/Smallyae" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jair-ochoa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+</a>
 
+### ¡Encantado de verte aquí!
 
-
-### ¡Encantado de verte aquí!  
 Soy Jair Ochoa, diseñador y desarrollador FrontEnd, estudiante de Diseño Interactivo en la Universidad de Bogotá Jorge Tadeo Lozano (UJTL).
 
-Mi pasión por el diseño y la tecnología me impulsa a crear experiencias digitales impactantes, fusionando creatividad y funcionalidad. Me especializo en desarrollar interfaces visualmente atractivas y altamente usables. Estoy comprometido con la mejora continua de la experiencia del usuario y con la exploración de nuevas tecnologías para ofrecer soluciones innovadoras.  
-  
+Mi pasión por el diseño y la tecnología me impulsa a crear experiencias digitales impactantes, fusionando creatividad y funcionalidad. Me especializo en desarrollar interfaces visualmente atractivas y altamente usables. Estoy comprometido con la mejora continua de la experiencia del usuario y con la exploración de nuevas tecnologías para ofrecer soluciones innovadoras.
 
-<br/>  
+<br/>
 
+## Curiosidades
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+- 🔭 Actualmente estoy trabajando en mi [Portafolio](https://jair.pages.dev)
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
+- 🌱 Actualmente estoy aprendiendo Javascript y React
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" align="center" style="width: 100%" />
+</div>
 
+</td></tr></table>
 
-</td></tr></table>  
+<br/>
 
-<br/>  
+## Lenguajes y herramientas
 
-
-## Languages and Tools  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-</div>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/astro.svg" alt="HTML5" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/html5.svg" alt="HTML5" height="25" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/css.svg" alt="HTML5" height="25" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/javascript.svg" alt="HTML5" height="25" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/tailwindcss.svg" alt="HTML5" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/react.svg" alt="HTML5" height="25" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/figma.svg" alt="HTML5" height="25" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/git.svg" alt="HTML5" height="25" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/unity.svg" alt="HTML5" height="25" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/markdown-dark.svg" alt="HTML5" height="25" /></a> 
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Smallyae&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -65,21 +60,14 @@ Mi pasión por el diseño y la tecnología me impulsa a crear experiencias digit
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smallyae&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
-  
+<br/>
 
-<br/>  
+![Profile views counter](https://komarev.com/ghpvc/?username=Smallyae&&style=flat-square)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Smallyae&&style=flat-square)  
-  
-
-<br/>  
-
+<br/>
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
