@@ -35,17 +35,17 @@ Mi pasión por el diseño y la tecnología me impulsa a crear experiencias digit
 
 ## Lenguajes y herramientas
 
-<div>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/astro.svg" alt="HTML5" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/html5.svg" alt="HTML5" height="25" /></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/css.svg" alt="HTML5" height="25" /></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/javascript.svg" alt="HTML5" height="25" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/tailwindcss.svg" alt="HTML5" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/react.svg" alt="HTML5" height="25" /></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/figma.svg" alt="HTML5" height="25" /></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/git.svg" alt="HTML5" height="25" /></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/unity.svg" alt="HTML5" height="25" /></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/markdown-dark.svg" alt="HTML5" height="25" /></a> 
+<div align="center" >  
+<a href="https://astro.build" target="_blank"><img style="margin: 100px" src="Imagenes/astro.svg" alt="Astro" height="25" /></a>  
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img style="margin: 100px" src="Imagenes/html5.svg" alt="HTML5" height="25" /></a> 
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img style="margin: 100px" src="Imagenes/css.svg" alt="CSS3" height="25" /></a> 
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img style="margin: 100px" src="Imagenes/javascript.svg" alt="Javascript" height="25" /></a>
+<a href="https://tailwindcss.com" target="_blank"><img style="margin: 100px" src="Imagenes/tailwindcss.svg" alt="Tailwind" height="25" /></a>  
+<a href="https://es.react.dev" target="_blank"><img style="margin: 100px" src="Imagenes/react.svg" alt="React" height="25" /></a> 
+<a href="https://www.figma.com" target="_blank"><img style="margin: 100px" src="Imagenes/figma.svg" alt="Figma" height="25" /></a> 
+<a href="https://git-scm.com" target="_blank"><img style="margin: 100px" src="Imagenes/git.svg" alt="Git" height="25" /></a> 
+<a href="https://unity.com/es" target="_blank"><img style="margin: 100px" src="Imagenes/unity.svg" alt="Unity" height="25" /></a> 
+<a href="https://es.wikipedia.org/wiki/Markdown" target="_blank"><img style="margin: 100px" src="Imagenes/markdown-dark.svg" alt="Markdown" height="25" /></a> 
 </div>
 
 <br/>
