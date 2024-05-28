@@ -35,7 +35,7 @@ Mi pasión por el diseño y la tecnología me impulsa a crear experiencias digit
 
 ## Lenguajes y herramientas
 
-<div align="center" style="padding: 100px;">  
+<div align="center" style="padding: 100px; display: flex;">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/astro.svg" alt="HTML5" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/html5.svg" alt="HTML5" height="25" /></a> 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="Imagenes/css.svg" alt="HTML5" height="25" /></a> 
