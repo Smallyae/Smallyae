@@ -19,7 +19,7 @@ Mi pasión por el diseño y la tecnología me impulsa a crear experiencias digit
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Actualmente estoy trabajando en mi [Portafolio](https://jair.pages.dev)
+- 🔭 Actualmente estoy trabajando el rediseño de la pagina principal del sistema de bibliotecas de la Utadeo
 
 - 🌱 Actualmente estoy aprendiendo Javascript y React
 
